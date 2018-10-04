@@ -1,0 +1,2 @@
+# whatsbomb
+Whatsapp mailer php
